@@ -19,6 +19,24 @@
 		E6493BD8177C2BCB005A54A7 /* SimpleTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E6493BD7177C2BCB005A54A7 /* SimpleTableViewController.m */; };
 		E6493BDB177C2BCB005A54A7 /* SimpleTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6493BD9177C2BCB005A54A7 /* SimpleTableViewController.xib */; };
 		E6493BE2177C3182005A54A7 /* Green-Bee1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E6493BE1177C3182005A54A7 /* Green-Bee1.jpg */; };
+		E6909337177D7A3700004178 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909327177D7A3700004178 /* 1.jpeg */; };
+		E6909338177D7A3700004178 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909328177D7A3700004178 /* 2.jpeg */; };
+		E6909339177D7A3700004178 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909329177D7A3700004178 /* 3.jpeg */; };
+		E690933A177D7A3700004178 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932A177D7A3700004178 /* 4.jpeg */; };
+		E690933B177D7A3700004178 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932B177D7A3700004178 /* 5.jpeg */; };
+		E690933C177D7A3700004178 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932C177D7A3700004178 /* 6.jpeg */; };
+		E690933D177D7A3700004178 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932D177D7A3700004178 /* 7.jpeg */; };
+		E690933E177D7A3700004178 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932E177D7A3700004178 /* 8.jpeg */; };
+		E690933F177D7A3700004178 /* 9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E690932F177D7A3700004178 /* 9.jpeg */; };
+		E6909340177D7A3700004178 /* 10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909330177D7A3700004178 /* 10.jpeg */; };
+		E6909341177D7A3700004178 /* 11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909331177D7A3700004178 /* 11.jpeg */; };
+		E6909342177D7A3700004178 /* 12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909332177D7A3700004178 /* 12.jpeg */; };
+		E6909343177D7A3700004178 /* 13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909333177D7A3700004178 /* 13.jpeg */; };
+		E6909344177D7A3700004178 /* 14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909334177D7A3700004178 /* 14.jpeg */; };
+		E6909345177D7A3700004178 /* 15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909335177D7A3700004178 /* 15.jpeg */; };
+		E6909346177D7A3700004178 /* 16.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6909336177D7A3700004178 /* 16.jpeg */; };
+		E6E307C1177D83DB001F53AA /* SimpleTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6E307C0177D83DB001F53AA /* SimpleTableCell.xib */; };
+		E6E307C4177D84F9001F53AA /* SimpleTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E307C3177D84F9001F53AA /* SimpleTableCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +57,25 @@
 		E6493BD7177C2BCB005A54A7 /* SimpleTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleTableViewController.m; sourceTree = "<group>"; };
 		E6493BDA177C2BCB005A54A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SimpleTableViewController.xib; sourceTree = "<group>"; };
 		E6493BE1177C3182005A54A7 /* Green-Bee1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Green-Bee1.jpg"; path = "../../../../Downloads/Green-Bee1.jpg"; sourceTree = "<group>"; };
+		E6909327177D7A3700004178 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpeg; path = ../../../../Downloads/1.jpeg; sourceTree = "<group>"; };
+		E6909328177D7A3700004178 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpeg; path = ../../../../Downloads/2.jpeg; sourceTree = "<group>"; };
+		E6909329177D7A3700004178 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpeg; path = ../../../../Downloads/3.jpeg; sourceTree = "<group>"; };
+		E690932A177D7A3700004178 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpeg; path = ../../../../Downloads/4.jpeg; sourceTree = "<group>"; };
+		E690932B177D7A3700004178 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5.jpeg; path = ../../../../Downloads/5.jpeg; sourceTree = "<group>"; };
+		E690932C177D7A3700004178 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpeg; path = ../../../../Downloads/6.jpeg; sourceTree = "<group>"; };
+		E690932D177D7A3700004178 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 7.jpeg; path = ../../../../Downloads/7.jpeg; sourceTree = "<group>"; };
+		E690932E177D7A3700004178 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8.jpeg; path = ../../../../Downloads/8.jpeg; sourceTree = "<group>"; };
+		E690932F177D7A3700004178 /* 9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 9.jpeg; path = ../../../../Downloads/9.jpeg; sourceTree = "<group>"; };
+		E6909330177D7A3700004178 /* 10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 10.jpeg; path = ../../../../Downloads/10.jpeg; sourceTree = "<group>"; };
+		E6909331177D7A3700004178 /* 11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 11.jpeg; path = ../../../../Downloads/11.jpeg; sourceTree = "<group>"; };
+		E6909332177D7A3700004178 /* 12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 12.jpeg; path = ../../../../Downloads/12.jpeg; sourceTree = "<group>"; };
+		E6909333177D7A3700004178 /* 13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 13.jpeg; path = ../../../../Downloads/13.jpeg; sourceTree = "<group>"; };
+		E6909334177D7A3700004178 /* 14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 14.jpeg; path = ../../../../Downloads/14.jpeg; sourceTree = "<group>"; };
+		E6909335177D7A3700004178 /* 15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 15.jpeg; path = ../../../../Downloads/15.jpeg; sourceTree = "<group>"; };
+		E6909336177D7A3700004178 /* 16.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 16.jpeg; path = ../../../../Downloads/16.jpeg; sourceTree = "<group>"; };
+		E6E307C0177D83DB001F53AA /* SimpleTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleTableCell.xib; sourceTree = "<group>"; };
+		E6E307C2177D84F9001F53AA /* SimpleTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleTableCell.h; sourceTree = "<group>"; };
+		E6E307C3177D84F9001F53AA /* SimpleTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleTableCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +122,22 @@
 		E6493BC4177C2BC9005A54A7 /* SimpleTable */ = {
 			isa = PBXGroup;
 			children = (
+				E6909327177D7A3700004178 /* 1.jpeg */,
+				E6909328177D7A3700004178 /* 2.jpeg */,
+				E6909329177D7A3700004178 /* 3.jpeg */,
+				E690932A177D7A3700004178 /* 4.jpeg */,
+				E690932B177D7A3700004178 /* 5.jpeg */,
+				E690932C177D7A3700004178 /* 6.jpeg */,
+				E690932D177D7A3700004178 /* 7.jpeg */,
+				E690932E177D7A3700004178 /* 8.jpeg */,
+				E690932F177D7A3700004178 /* 9.jpeg */,
+				E6909330177D7A3700004178 /* 10.jpeg */,
+				E6909331177D7A3700004178 /* 11.jpeg */,
+				E6909332177D7A3700004178 /* 12.jpeg */,
+				E6909333177D7A3700004178 /* 13.jpeg */,
+				E6909334177D7A3700004178 /* 14.jpeg */,
+				E6909335177D7A3700004178 /* 15.jpeg */,
+				E6909336177D7A3700004178 /* 16.jpeg */,
 				E6493BE1177C3182005A54A7 /* Green-Bee1.jpg */,
 				E6493BCD177C2BCA005A54A7 /* SimpleTableAppDelegate.h */,
 				E6493BCE177C2BCA005A54A7 /* SimpleTableAppDelegate.m */,
@@ -92,6 +145,9 @@
 				E6493BD7177C2BCB005A54A7 /* SimpleTableViewController.m */,
 				E6493BD9177C2BCB005A54A7 /* SimpleTableViewController.xib */,
 				E6493BC5177C2BCA005A54A7 /* Supporting Files */,
+				E6E307C0177D83DB001F53AA /* SimpleTableCell.xib */,
+				E6E307C2177D84F9001F53AA /* SimpleTableCell.h */,
+				E6E307C3177D84F9001F53AA /* SimpleTableCell.m */,
 			);
 			path = SimpleTable;
 			sourceTree = "<group>";
@@ -168,6 +224,23 @@
 				E6493BD5177C2BCB005A54A7 /* Default-568h@2x.png in Resources */,
 				E6493BDB177C2BCB005A54A7 /* SimpleTableViewController.xib in Resources */,
 				E6493BE2177C3182005A54A7 /* Green-Bee1.jpg in Resources */,
+				E6909337177D7A3700004178 /* 1.jpeg in Resources */,
+				E6909338177D7A3700004178 /* 2.jpeg in Resources */,
+				E6909339177D7A3700004178 /* 3.jpeg in Resources */,
+				E690933A177D7A3700004178 /* 4.jpeg in Resources */,
+				E690933B177D7A3700004178 /* 5.jpeg in Resources */,
+				E690933C177D7A3700004178 /* 6.jpeg in Resources */,
+				E690933D177D7A3700004178 /* 7.jpeg in Resources */,
+				E690933E177D7A3700004178 /* 8.jpeg in Resources */,
+				E690933F177D7A3700004178 /* 9.jpeg in Resources */,
+				E6909340177D7A3700004178 /* 10.jpeg in Resources */,
+				E6909341177D7A3700004178 /* 11.jpeg in Resources */,
+				E6909342177D7A3700004178 /* 12.jpeg in Resources */,
+				E6909343177D7A3700004178 /* 13.jpeg in Resources */,
+				E6909344177D7A3700004178 /* 14.jpeg in Resources */,
+				E6909345177D7A3700004178 /* 15.jpeg in Resources */,
+				E6909346177D7A3700004178 /* 16.jpeg in Resources */,
+				E6E307C1177D83DB001F53AA /* SimpleTableCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +254,7 @@
 				E6493BCB177C2BCA005A54A7 /* main.m in Sources */,
 				E6493BCF177C2BCA005A54A7 /* SimpleTableAppDelegate.m in Sources */,
 				E6493BD8177C2BCB005A54A7 /* SimpleTableViewController.m in Sources */,
+				E6E307C4177D84F9001F53AA /* SimpleTableCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +377,7 @@
 				E6493BE0177C2BCB005A54A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
